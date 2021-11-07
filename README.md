@@ -67,7 +67,7 @@ para que quiser conferir segue o código no [Github](https://github.com/LuizCorr
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/LuizCorrea-Dev/netflix-clone
+git clone https://github.com/LuizCorrea-Dev/restaurant-search
 ```
 
 ... 
