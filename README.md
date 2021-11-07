@@ -36,7 +36,7 @@
 
 Neste projeto usei além do layout apresentado na aula, técnicas de **modal** e **site totalmente responsivo**
 
-para que quiser conferir segue o código no [Github](https://github.com/LuizCorrea-Dev/netflix-clone) e podem acessar aqui [RestaurantSearch.com](https://whoplay.herokuapp.com/)
+para que quiser conferir segue o código no [Github](https://github.com/LuizCorrea-Dev/restaurant-search) e podem acessar aqui [RestaurantSearch.com](https://whoplay.herokuapp.com/)
 
 
 
@@ -52,7 +52,7 @@ para que quiser conferir segue o código no [Github](https://github.com/LuizCorr
 
 ## Layout da Aplicação :dash:
 
-> ![](https://github.com/LuizCorrea-Dev/netflix-clone/blob/main/img/screencapture.png?raw=true)
+> ![](https://github.com/LuizCorrea-Dev/restaurant-search/blob/main/src/assets/restaurant-search.png?raw=true)
 
 
 
